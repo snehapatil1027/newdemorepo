@@ -3,3 +3,4 @@ hi
 welcome to git class
 }
 i m going make changes
+x = 6
